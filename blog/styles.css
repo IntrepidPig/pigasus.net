@@ -1,0 +1,19 @@
+.post {
+
+}
+
+.title {
+	padding-bottom: 5px;
+	border-bottom: solid #ccc;
+	border-width: 1px;
+}
+
+.date {
+	
+	color: #888;
+	text-align: right;
+}
+
+.body {
+	margin: 15px;
+}
